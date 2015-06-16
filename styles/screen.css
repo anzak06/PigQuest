@@ -1,0 +1,50 @@
+/* line 1 */
+body  {
+  font-family: Verdana;
+  font-size: 10pt;
+}
+
+canvas {
+	border-style:solid;
+	border-width:1px;
+	float:left;
+	font-family: PressStart;
+ }
+ 
+#gameContainer {
+	float: left;
+ }
+ 
+ 
+ #left {
+	float: left;
+	background-color: blue;
+	font-size: 15px;
+	padding: 10px;
+	border-style: solid;
+	border-width: 1px;
+	width: 125px;
+	height: 125px;
+}
+
+ #right {
+	float: left;
+	background-color: green;
+	font-size: 15px;
+	padding: 10px;
+	border-style: solid;
+	border-width: 1px;
+	width: 125px;
+	height: 125px;
+}
+
+ #jump {
+	float: right;
+	background-color: red;
+	font-size: 15px;
+	padding: 10px;
+	border-style: solid;
+	border-width: 1px;
+	width: 125px;
+	height: 125px;
+}
